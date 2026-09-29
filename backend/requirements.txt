@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+websockets
+pydantic
+sqlalchemy
+pymysql
+cryptography
+opencv-python
+pillow
+scikit-image
+httpx
+gTTS
+deep-translator
+python-multipart
+cachetools

@@ -1,0 +1,24 @@
+{
+    "name": "MediScan AI 2.0",
+    "short_name": "MediScan",
+    "description": "Enterprise AI Prescription Analysis Platform",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0B132B",
+    "theme_color": "#2563EB",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
